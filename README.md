@@ -1,2 +1,3 @@
-# telecom-networks-proje
+# telecom-networks-
+
 تکالیف هفتگی شبکه های مخابراتی
